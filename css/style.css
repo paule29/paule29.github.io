@@ -163,6 +163,7 @@ section {
   color: #fff;
   font-size: 4rem;
   padding-bottom: .5rem;
+  letter-spacing: 1.5%;
 }
 
 .home .content span {
@@ -170,6 +171,7 @@ section {
   color: #5f85db;
   padding: .5rem 0;
   display: block;
+  letter-spacing: 1.5%;
 }
 
 .home .content p {
@@ -177,6 +179,7 @@ section {
   color: #aaa;
   padding: 1rem 0;
   line-height: 2;
+  letter-spacing: 1.5%;
 }
 
 .about .row  {
@@ -202,6 +205,7 @@ section {
   color: #fff;
   text-transform: uppercase;
   padding-bottom: 1rem;
+  letter-spacing: 1.5%;
 }
 
 .about .row .info-container .box-container {
@@ -225,11 +229,13 @@ section {
   color: #fff;
   padding: 1rem 0;
   font-weight: normal;
+  letter-spacing: 1.5%;
 }
 
 .about .row .info-container .box-container .box h3 span {
   color: #aaa;
   font-weight: lighter;
+  letter-spacing: 1.5%;
 }
 
 .about .row .count-container {
@@ -244,7 +250,7 @@ section {
   gap: 2rem;
 }
 
-.about .row .count-container .box {
+.about .row .count-container .box  {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 20rem;
           flex: 1 1 20rem;
